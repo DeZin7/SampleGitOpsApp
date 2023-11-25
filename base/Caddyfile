@@ -4,4 +4,4 @@ log {
   format json
 }
 root * /usr/share/caddy
-file_serve
+file_server
